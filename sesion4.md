@@ -164,20 +164,20 @@ System.out.println("el estudiante recibe una beca");
 
 ## INVENTADOS
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+     /*
+    * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+    */
 
-package com.mycompany.actividadlogicadepg;
+     package com.mycompany.actividadlogicadepg;
 
- import java.util.Scanner;
+     import java.util.Scanner;
 
-/**
- *
- * @author Yojan y Nicolas
- */ 
+     /**
+     *
+    * @author Yojan y Nicolas
+    */ 
 
-public class Actividadlogicadepg {
+     public class Actividadlogicadepg {
 
     public static void main(String[] args) {
         
