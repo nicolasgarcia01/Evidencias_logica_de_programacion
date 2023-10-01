@@ -33,7 +33,7 @@ Previous
 
 # Ejercicio 1 while
 
-      Scanner sc = new Scanner(System.in);
+          Scanner sc = new Scanner(System.in);
         
         System.out.println("Ingrese un numero");
         int  numero = sc.nextInt();
@@ -57,8 +57,8 @@ Previous
 
 # Ejercicio 2 while
 
-     System.out.println("Ingrese una cadena de caracteres:");
-        String cadena = scanner.nextLine();
+         System.out.println("Ingrese una cadena de caracteres:");
+          String cadena = scanner.nextLine();
         
         int contador = 0;
         
@@ -95,7 +95,7 @@ Previous
 
 # Ejercicio 2 do-while
 
-     Scanner scanner = new Scanner(System.in);
+         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Introduce un numero entero:");
         
@@ -111,7 +111,7 @@ Previous
 
 # Ejercicio 1 for
 
-     int i = 1;
+         int i = 1;
         
         for(;i<=50;i++){
             if (i % 2 != 0) 
@@ -123,8 +123,8 @@ Previous
   
 # Ejercicio 2 for 
 
-         for (int  numero = 2; numero <= 100; numero++){
-           boolean esPrimo = true;
+             for (int  numero = 2; numero <= 100; numero++){
+             boolean esPrimo = true;
            
            for (int divisor = 2; divisor < numero; divisor++){
                if (numero % divisor == 0){
