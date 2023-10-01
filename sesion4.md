@@ -48,125 +48,125 @@ Con la información anterior, implementa los siguientes ejercicios:
 
 # SOLUCION
 
-class Main {  
-public static void main(String[] args) {  }
+      class Main {  
+     public static void main(String[] args) {  }
 
 
 
-  String nombre = "Juan Pérez";
-String apellido = "González";
-String identificación = "1000000001";
-String correo = "juan.perez@ejemplo.com";
-String carrera = "Desarrollo de Software";
-String universidad = "Cesde";
-int edad = 20;
-boolean esActivo = true;
-boolean becado = false;
-char género = 'M';
-double promedio = 4.5;
-int semestre = 2;
+      String nombre = "Juan Pérez";
+     String apellido = "González";
+     String identificación = "1000000001";
+     String correo = "juan.perez@ejemplo.com";
+     String carrera = "Desarrollo de Software";
+      String universidad = "Cesde";
+     int edad = 20;
+     boolean esActivo = true;
+     boolean becado = false;
+     char género = 'M';
+     double promedio = 4.5;
+     int semestre = 2;
   
   
- System.out.println( "...........................");
+      System.out.println( "...........................");
 
- System.out.println( "ejercicio 1.");
+     System.out.println( "ejercicio 1.");
 
-int edad = 20;
-boolean esActivo = true;
+     int edad = 20;
+     boolean esActivo = true;
 
-if (edad >= 18 && esActivo) {
- System.out.println( " es mayor de edad y esta activo.");
-
-
- System.out.println( "...........................");
-System.out.println( "ejercicio 2 .");
-
-String carrera = "Desarrollo de Software";
-boolean becado = false;
-
-if (becado || carrera.equals("Desarrollo de Software")) {
-System.out.println( " tiene una beca o está en la carrera de Desarrollo de Software.");
+      if (edad >= 18 && esActivo) {
+     System.out.println( " es mayor de edad y esta activo.");
 
 
-System.out.println( "...........................");
-System.out.println( "ejercicio 3 .");
+      System.out.println( "...........................");
+     System.out.println( "ejercicio 2 .");
 
-int semestre = 2;
-boolean esActivo = true;
+     String carrera = "Desarrollo de Software";
+     boolean becado = false;
 
- if (semestre == 10 && esActivo) {
+      if (becado || carrera.equals("Desarrollo de Software")) {
+     System.out.println( " tiene una beca o está en la carrera de Desarrollo de Software.");
+
+
+      System.out.println( "...........................");
+     System.out.println( "ejercicio 3 .");
+
+     int semestre = 2;
+     boolean esActivo = true;
+
+     if (semestre == 10 && esActivo) {
    
- System.out.println( " está en el último semestre de su carrera y tiene un estado activo.");
+     System.out.println( " está en el último semestre de su carrera y tiene un estado activo.");
    
-} else {
- System.out.println( " no cumple con ambos requisitos.");
- }
+     } else {
+      System.out.println( " no cumple con ambos requisitos.");
+     }
 
-System.out.println( "...........................");
-System.out.println( "ejercicio 4 .");
+       System.out.println( "...........................");
+     System.out.println( "ejercicio 4 .");
 
-String carrera = "Desarrollo de Software";
-double promedio = 4.5;
+     String carrera = "Desarrollo de Software";
+     double promedio = 4.5;
 
- if (carrera.equals("Desarrollo de Software") && promedio > 4.0) {
+      if (carrera.equals("Desarrollo de Software") && promedio > 4.0) {
    
- System.out.println( " tiene una carrera relacionada con el desarrollo de software y un promedio superior a 4.0.");
+      System.out.println( " tiene una carrera relacionada con el desarrollo de software y un promedio superior a 4.0.");
    
- } else {
-System.out.println( " no cumple con ambos requisitos.");
+     } else {
+     System.out.println( " no cumple con ambos requisitos.");
 
 
-System.out.println(+ "...........................");
-System.out.println( "ejercicio 5 .");
+     System.out.println(+ "...........................");
+     System.out.println( "ejercicio 5 .");
 
-String nombre = "Juan Pérez";
-String apellido = "González";
-String identificación = "1000000001";
-String correo = "juan.perez@ejemplo.com";
-String carrera = "Desarrollo de Software";
-String universidad = "Cesde";
-int edad = 20;
-boolean esActivo = true;
-boolean becado = false;
-char género = 'M';
-double promedio = 4.5;
-int semestre = 2;
+     String nombre = "Juan Pérez";
+     String apellido = "González"; 
+     String identificación = "1000000001";
+     String correo = "juan.perez@ejemplo.com";
+     String carrera = "Desarrollo de Software";
+     String universidad = "Cesde";
+     int edad = 20;
+     boolean esActivo = true;
+     boolean becado = false;
+     char género = 'M';
+     double promedio = 4.5;
+     int semestre = 2;
 
- if (universidad.equals("Cesde")) {
-System.out.println("Información del estudiante:"); System.out.println("Nombre: " + nombre);
-System.out.println("Apellido: " + apellido); System.out.println("Identificación: " + identificacion);
-System.out.println("Correo: " + correo);
-System.out.println("Carrera: " + carrera);
-System.out.println("Universidad: " + universidad);
-System.out.println("Edad: " + edad);
-System.out.println("Activo: " + esActivo);
-System.out.println("Becado: " + becado);
-System.out.println("Género: " + genero);
-System.out.println("Promedio: " + promedio);
-System.out.println("Semestre: " + semestre);
+     if (universidad.equals("Cesde")) {
+     System.out.println("Información del estudiante:"); System.out.println("Nombre: " + nombre);
+     System.out.println("Apellido: " + apellido); System.out.println("Identificación: " + identificacion);
+     System.out.println("Correo: " + correo);
+     System.out.println("Carrera: " + carrera);
+     System.out.println("Universidad: " + universidad);
+     System.out.println("Edad: " + edad);
+      System.out.println("Activo: " + esActivo);
+     System.out.println("Becado: " + becado);
+     System.out.println("Género: " + genero);
+     System.out.println("Promedio: " + promedio);
+     System.out.println("Semestre: " + semestre);
    
 
 
    
-System.out.println(+ "...........................");
-System.out.println( "ejercicio 6 .");
+      System.out.println(+ "...........................");
+     System.out.println( "ejercicio 6 .");
 
-if(universidad == "Cesde"  && promedio >= 4.1 && esActivo){
+      if(universidad == "Cesde"  && promedio >= 4.1 && esActivo){
 
-System.out.println("Tienes una beca del 50%");
+      System.out.println("Tienes una beca del 50%");
 
 
-System.out.println(+ "...........................");
-System.out.println( "ejercicio 7 .");
+      System.out.println(+ "...........................");
+     System.out.println( "ejercicio 7 .");
 
-if(promedio >= 4.5){
-System.out.println("el estudiante recibe una beca");
+     if(promedio >= 4.5){
+     System.out.println("el estudiante recibe una beca");
 
 # INVENTADOS
 
      /*
-    * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-    */
+     * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+     */
 
      package com.mycompany.actividadlogicadepg;
 
