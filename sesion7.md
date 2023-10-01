@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
- ## Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
+# Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
  # EJEMPLO ARRAY
 

@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-## Actividad 5: Ejercicios de bucles
+# Actividad 5: Ejercicios de bucles
 
 -Resolver los siguientes ejercicios:
 
@@ -29,7 +29,7 @@
 -Imprimir los números primos del 1 al 100.
 Previous
 
-## SOLUCION 
+# SOLUCION 
 
 # Ejercicio 1 while
 

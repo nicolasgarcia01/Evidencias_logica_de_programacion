@@ -46,7 +46,7 @@ Con la información anterior, implementa los siguientes ejercicios:
 -4.0 - 4.4: El estudiante recibe una beca parcial del 50%.
 -4.5 - 5.0: El estudiante recibe una beca completa.
 
-## SOLUCION
+# SOLUCION
 
 class Main {  
 public static void main(String[] args) {  }
@@ -162,7 +162,7 @@ System.out.println( "ejercicio 7 .");
 if(promedio >= 4.5){
 System.out.println("el estudiante recibe una beca");
 
-## INVENTADOS
+# INVENTADOS
 
      /*
     * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
