@@ -8,9 +8,9 @@
 
 # Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
- # EJEMPLO ARRAY
+# EJEMPLO ARRAY
 
-  // Un array que contenga los numeros del 1 al 100 y que calcule la suma y la media de los valores.
+    // Un array que contenga los numeros del 1 al 100 y que calcule la suma y la media de los valores.
         int[] numeros = new int[100];
 
         int suma = 0;
@@ -30,7 +30,7 @@
 
 # EJEMPLO ARRAYLIST
 
-java.util.ArrayList <String> ListaNombres = new java.util.ArrayList();
+        java.util.ArrayList <String> ListaNombres = new java.util.ArrayList();
         // .add Añade elementos a nuestro ArrayList
         ListaNombres.add("Nicolas"); // 0
         ListaNombres.add("Yojan"); // 1
