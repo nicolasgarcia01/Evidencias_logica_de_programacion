@@ -12,7 +12,7 @@
 
 # Solución:
 
-**Explicación detallada de cada una:**
+**Explicación detallada de cada una: Ejercicio 3 y 4**
 
 **1:**
 
